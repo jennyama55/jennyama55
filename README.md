@@ -1,6 +1,8 @@
 # Jennifer Yamashita
 Mathematics of Computation major and Data Science Engieering Minor at UCLA 
 
+Exploring the intersection of machine learning and human communication
+
 ## About me: 
 I've always loved math for the same reason some people love puzzles: there's a real satisfaction in knowing you got it right. That instinct — check it, check it again — has stuck with me through every problem set, every project, every line of code.
  
