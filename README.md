@@ -15,4 +15,5 @@ I'm not 100% sure yet where this leads (grad school for CS is on the table, amon
 
 ## Contact me:
 LinkedIn: [https://www.linkedin.com/in/jennifer-s-yamashita/](https://www.linkedin.com/in/jennifer-s-yamashita/)
+
 Email: jennyama55@gmail.com
