@@ -10,9 +10,6 @@ I'm currently studying Math of Computation at UCLA with a minor in Data Science 
  
 I'm not 100% sure yet where this leads (grad school for CS is on the table, among other paths), but I'm excited to keep exploring the space between logic and creativity.
 
-## Projects:
-
-
 ## Contact me:
 LinkedIn: [https://www.linkedin.com/in/jennifer-s-yamashita/](https://www.linkedin.com/in/jennifer-s-yamashita/)
 
